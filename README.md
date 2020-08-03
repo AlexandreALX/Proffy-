@@ -33,9 +33,11 @@
     <img alt="" src="https://img.shields.io/badge/Nodemoon-Tool-purple"> 
   </a>  
 </p>
+
 ---
-# pushpin: Topics
-* [About this project](#rocket-content)
+
+# :pushpin: Topics
+* [About this project](#rocket-about)
 * [I found errors in this project, what should i do?](bug-bugs)
 * [Whitch license this pproject use?](closed_book-license)
 
@@ -45,5 +47,5 @@ Proffy is a marketplace where you find people with a strong desire to teach, or 
 # :bug: Bugs
 Did you find one or more errors in this project? No problem, open an [issue](https://github.com/AlexandreALX/Proffy/issues) or solve the problem and make a [Pull request](https://github.com/AlexandreALX/Proffy/pulls). I´ll be very happy with your contribution :)
 
-# :book_closed: License
-This project use the [MIT LICENSE](https://opensource.org/licenses/MIT)
+# :closed_book: License
+This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
