@@ -1,6 +1,6 @@
 # Proffy
 <p align="center">
-  <img alt="Semana do próximo nível" src="https://cdn.dribbble.com/users/1986561/screenshots/11226328/nlw_dribbble.png" width="400">
+  <img alt="Semana do próximo nível" src="https://i.ibb.co/hfV4MyG/Proffy.png" width="600">
 </p>
 <h1 align="center"> Technologies used </h1>
 
