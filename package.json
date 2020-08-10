@@ -1,0 +1,24 @@
+{
+  "name": "Aplication",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img alt=\"Semana do próximo nível\" src=\"https://i.ibb.co/hfV4MyG/Proffy.png\" width=\"600\">\r </p>\r <h1 align=\"center\"> Technologies used </h1>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreALX/Proffy.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/AlexandreALX/Proffy/issues"
+  },
+  "homepage": "https://github.com/AlexandreALX/Proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
