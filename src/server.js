@@ -20,24 +20,55 @@
      time_to: [1120]
     }
  ]
- const subject = [
-     
+ const subjects = [
+     "Artes",
+     "Biologia",
+     "Ciências",
+     "Eduacação Física",
+     "Geografia",
+     "História",
+     "Matemárica",
+     "Português",
+     "Química",
  ]
+ const weekdays = [
+     "Segunda-Feira",
+     "Terça-Feira",
+     "Quarta-Feira",
+     "Quinta-Feira",
+     "Sexta-Feira",
+     "Sábado",
+     "Domingo",
+ ]
+
+ function getSubject(){
+     const arrayPosition = +subjectNumber - 1
+     return subjects[arrayPosition]
+ }
  function pageLanding(require, response){
      return response.render("index.html")
  }
  function pageStudy(require, response){
-     const filters = require.query
-    return response.render("study.html", {proffys, filters})
+    const filters = require.query
+    return response.render("study.html", {proffys, filters, subjects, weekdays})
 }
 function pageGiveClasses(require, response){
-    return response.render("give-classes.html")
+    const data = require.query
+    const isNotEmpty = Object.keys(data).length != 0
+
+    if (isNotEmpty){
+        data.subject = getSubject(dataSubject)
+        proffys.push(data)
+
+        return response.redirect('/study')
+    }
+    return response.render("give-classes.html", {subjects, weekdays})
 }
 
- const express = require('express')
- const server = express()
+const express = require('express')
+const server = express()
 
- const nunjucks = require('nunjucks')
+const nunjucks = require('nunjucks')
 nunjucks.configure('src/views',{
     express: server,
     noChache: true,
