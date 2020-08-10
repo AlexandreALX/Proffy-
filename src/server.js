@@ -20,17 +20,32 @@
      time_to: [1120]
     }
  ]
- 
+ const subject = [
+     
+ ]
+ function pageLanding(require, response){
+     return response.render("index.html")
+ }
+ function pageStudy(require, response){
+     const filters = require.query
+    return response.render("study.html", {proffys, filters})
+}
+function pageGiveClasses(require, response){
+    return response.render("give-classes.html")
+}
+
  const express = require('express')
  const server = express()
+
+ const nunjucks = require('nunjucks')
+nunjucks.configure('src/views',{
+    express: server,
+    noChache: true,
+
+})
+
  server.use(express.static('public'))
-.get("/", (require, response) =>{
-    return response.sendFile(__dirname + "/views/index.html")
-})
-.get("/study", (require, response) =>{
-    return response.sendFile(__dirname + "/views/study.html")
-})
-.get("/give-classes", (require, response) =>{
-    return response.sendFile(__dirname + "/views/give-classes.html")
-})
+.get("/", pageLanding)
+.get("/study", pageStudy)
+.get("/give-classes", pageGiveClasses)
 .listen(5500)
