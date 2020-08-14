@@ -2,6 +2,15 @@
 <p align="center">
   <img alt="Semana do próximo nível" src="https://i.ibb.co/hfV4MyG/Proffy.png" width="600">
 </p>
+<p align="center"> 
+  
+</p>
+<p align="center"> 
+  
+</p>
+
+---
+
 <h1 align="center"> Technologies used </h1>
 
 <p align="center">
