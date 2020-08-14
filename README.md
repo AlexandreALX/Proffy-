@@ -3,7 +3,8 @@
   <img alt="Semana do próximo nível" src="https://i.ibb.co/X7KD9X2/Proffy-web-desktop.png" width="1000"/>
 </p>
 <p align="center"> 
-  <img alt="Proffy page study" src="https://i.ibb.co/RP4SSyW/page-study.png" width="500"/>
+  <img alt="Proffy page study" src="https://i.ibb.co/RP4SSyW/page-study.png" width="450"/>
+  <img alt="Proffy page study" src="https://i.ibb.co/Jt6FGDz/study-not-found-PROFFY.png" width="450"/>
 </p>
 <p align="center"> 
   
