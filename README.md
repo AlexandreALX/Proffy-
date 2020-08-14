@@ -8,7 +8,7 @@
 </p>
 <p align="center"> 
   <img alt="Proffy page register" src="https://i.ibb.co/d7FH8tV/register-PROFFY.png" width="450"/>
-  <img alt="Proffy page register" src="" width="450"/>
+  <img alt="Proffy page register" src="https://i.ibb.co/JHdzS05/register-continue-PROFFY.png" width="450"/>
 </p>
 
 ---
