@@ -1,6 +1,6 @@
 # Proffy
 <p align="center">
-  <img alt="Semana do próximo nível" src="https://i.ibb.co/hfV4MyG/Proffy.png" width="600">
+  <img alt="Semana do próximo nível" src="https://i.ibb.co/X7KD9X2/Proffy-web-desktop.png" width="1000">
 </p>
 <p align="center"> 
   
