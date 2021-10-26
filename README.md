@@ -11,8 +11,6 @@
   <img alt="Proffy page register" src="https://i.ibb.co/JHdzS05/register-continue-PROFFY.png" width="450" height="250"/>
 </p>
 
----
-
 <h1 align="center"> Technologies used </h1>
 
 <p align="center">
