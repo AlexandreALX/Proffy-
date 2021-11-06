@@ -3,12 +3,12 @@
   <img alt="Semana do próximo nível" src="https://i.ibb.co/X7KD9X2/Proffy-web-desktop.png" width="1000"/>
 </p>
 <p align="center"> 
-  <img alt="Proffy page study" src="https://i.ibb.co/RP4SSyW/page-study.png" width="450"/>
-  <img alt="Proffy page study" src="https://i.ibb.co/Jt6FGDz/study-not-found-PROFFY.png" width="450" height="246"/>
+  <img alt="Proffy page study" src="https://i.ibb.co/RP4SSyW/page-study.png" width="400" height="250"/>
+  <img alt="Proffy page study" src="https://i.ibb.co/Jt6FGDz/study-not-found-PROFFY.png" width="400" height="250"/>
 </p>
 <p align="center"> 
-  <img alt="Proffy page register" src="https://i.ibb.co/d7FH8tV/register-PROFFY.png" width="450" height="250"/>
-  <img alt="Proffy page register" src="https://i.ibb.co/JHdzS05/register-continue-PROFFY.png" width="200" height="250"/>
+  <img alt="Proffy page register" src="https://i.ibb.co/d7FH8tV/register-PROFFY.png" width="400" height="250"/>
+  <img alt="Proffy page register" src="https://i.ibb.co/JHdzS05/register-continue-PROFFY.png" width="400" height="250"/>
 </p>
 
 <h1 align="center"> Technologies used </h1>
