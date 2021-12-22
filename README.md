@@ -52,7 +52,7 @@
 * [I found errors in this project, what should i do?](bug-bugs)
 * [Whitch license this pproject use?](closed_book-license)
 
-# :rocket: About
+# :book: About
 Proffy is a marketplace where you find people with a strong desire to teach, or where you can be one of those people and show what you want to teach.
 
 # :bug: Bugs
